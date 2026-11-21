@@ -116,7 +116,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-<img width="1308" height="803" alt="Digital Electronics wave form" src="https://github.com/user-attachments/assets/3b3766c6-05cc-42c0-aaec-1ac9f996461b" />
+<img width="1917" height="813" alt="EX-1 WAVE" src="https://github.com/user-attachments/assets/11343cb9-4983-4f5c-ba78-677558f5fddb" />
+
 
 
 
